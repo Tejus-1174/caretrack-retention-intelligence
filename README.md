@@ -1,5 +1,10 @@
 # CareTrack — Client Retention Intelligence Dashboard
 
+## Project Resources
+- [Case Study (Notion)](https://mixed-animantarx-6d4.notion.site/CareTrack-Client-Retention-Intelligence-Suite-3560e6e4fe8080edb1f6e03b2592963d))
+- [GitHub Repository](https://github.com/Tejus-1174/caretrack-retention-intelligence)
+- [Document](https://docs.google.com/presentation/d/11qM4PyjEX1azu61Ota7gAtBTI4Vz7ve9bWFsiNxkdtA/edit?slide=id.p#slide=id.p)
+
 ## Problem
 B2B Healthcare SaaS company facing 26.54% churn with 214K revenue at risk across 7043 active clients.
 
